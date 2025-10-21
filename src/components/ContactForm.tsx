@@ -90,8 +90,10 @@ const ContactForm = () => {
                   <div>
                     <h4 className="text-xl font-semibold mb-1 text-gray-900">Our Location</h4>
                     <p className="text-gray-600">
-                      1 Market Street<br />
-                      San Francisco, CA 94105
+                      Workcity Africa, Polystar building<br />
+                      2nd roundabout, Lekki Phase 1<br />
+                      Lekki, Lagos 105102<br />
+                      Nigeria
                     </p>
                   </div>
                 </div>
@@ -119,7 +121,7 @@ const ContactForm = () => {
                   <div>
                     <h4 className="text-xl font-semibold mb-1 text-gray-900">Business Hours</h4>
                     <p className="text-gray-600">
-                      Monday - Friday: 9:00 AM - 6:00 PM PST<br />
+                      Monday - Friday: 9:00 AM - 6:00 PM GMT<br />
                       24/7 Support Available
                     </p>
                   </div>

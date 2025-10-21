@@ -67,20 +67,6 @@ const Header = () => {
               About Us
             </button>
             <button
-              onClick={() => scrollToSection('services')}
-              className={`font-medium transition-colors hover:text-softloom-green ${isScrolled ? 'text-gray-700' : 'text-white'
-                }`}
-            >
-              Services
-            </button>
-            <button
-              onClick={() => scrollToSection('industries')}
-              className={`font-medium transition-colors hover:text-softloom-green ${isScrolled ? 'text-gray-700' : 'text-white'
-                }`}
-            >
-              Industries
-            </button>
-            <button
               onClick={() => scrollToSection('contact')}
               className="btn-primary"
             >
@@ -126,18 +112,6 @@ const Header = () => {
               className="block w-full text-left py-2 text-gray-700 font-medium hover:text-softloom-green transition-colors"
             >
               About Us
-            </button>
-            <button
-              onClick={() => scrollToSection('services')}
-              className="block w-full text-left py-2 text-gray-700 font-medium hover:text-softloom-green transition-colors"
-            >
-              Services
-            </button>
-            <button
-              onClick={() => scrollToSection('industries')}
-              className="block w-full text-left py-2 text-gray-700 font-medium hover:text-softloom-green transition-colors"
-            >
-              Industries
             </button>
             <button
               onClick={() => scrollToSection('contact')}

@@ -20,13 +20,6 @@ const Hero = () => {
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          {/* Badge */}
-          <div className="inline-flex items-center px-4 py-2 bg-softloom-green/20 backdrop-blur-sm rounded-full mb-8 border border-softloom-green/30">
-            <span className="text-softloom-green font-semibold text-sm uppercase tracking-wider">
-              Innovative Technology Solutions
-            </span>
-          </div>
-
           {/* Main Heading */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
             Transform Your Business with{' '}
@@ -40,22 +33,6 @@ const Hero = () => {
             Empower your enterprise with intelligent solutions that streamline operations,
             enhance customer experiences, and drive sustainable growth.
           </p>
-
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <button
-              onClick={() => scrollToSection('contact')}
-              className="btn-primary text-lg px-10 py-4"
-            >
-              Get Started
-            </button>
-            <button
-              onClick={() => scrollToSection('services')}
-              className="bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white font-semibold py-4 px-10 rounded-lg transition-all duration-300 border border-white/30 hover:border-white/50 text-lg"
-            >
-              Explore Services
-            </button>
-          </div>
 
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-20 pt-12 border-t border-white/10">

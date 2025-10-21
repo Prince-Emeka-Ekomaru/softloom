@@ -122,9 +122,11 @@ const Footer = () => {
               <li className="pt-4">
                 <p className="text-gray-400 text-sm">Our Location</p>
                 <p className="text-sm">
-                  1 Market Street
+                  Workcity Africa, Polystar building
                   <br />
-                  San Francisco, CA 94105
+                  2nd roundabout, Lekki Phase 1
+                  <br />
+                  Lekki, Lagos 105102, Nigeria
                 </p>
               </li>
             </ul>
