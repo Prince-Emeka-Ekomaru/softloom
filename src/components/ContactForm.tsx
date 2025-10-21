@@ -107,7 +107,7 @@ const ContactForm = () => {
                   <div>
                     <h4 className="text-xl font-semibold mb-1 text-gray-900">Email Us</h4>
                     <a href="mailto:hello@softloom.com" className="text-softloom-green hover:text-green-600 transition-colors">
-                      hello@softloom.com
+                      Info@softloom.com.ng
                     </a>
                   </div>
                 </div>
