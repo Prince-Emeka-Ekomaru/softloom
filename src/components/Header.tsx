@@ -31,29 +31,11 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="flex items-center space-x-2">
-              <svg
-                className="w-10 h-10"
-                viewBox="0 0 40 40"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <rect width="40" height="40" rx="8" fill="#0B3D2E" />
-                <path
-                  d="M12 28C12 28 15 22 20 22C25 22 28 28 28 28"
-                  stroke="#F5F1E6"
-                  strokeWidth="3"
-                  strokeLinecap="round"
-                />
-                <path
-                  d="M12 18C12 18 15 12 20 12C25 12 28 18 28 18"
-                  stroke="#D6BA73"
-                  strokeWidth="3"
-                  strokeLinecap="round"
-                />
-              </svg>
-              <span className={`text-2xl font-bold ${isScrolled ? 'text-softloom-blue' : 'text-white'}`}>
-                Softloom
-              </span>
+              <img 
+                src="/Softloom.svg" 
+                alt="Softloom Logo" 
+                className="h-10 w-auto"
+              />
             </div>
           </Link>
 
