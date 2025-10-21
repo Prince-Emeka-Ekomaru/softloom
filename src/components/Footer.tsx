@@ -7,7 +7,7 @@ const Footer = () => {
   }
 
   return (
-    <footer className="bg-softloom-dark-blue text-white">
+    <footer className="bg-softloom-dark-blue text-softloom-cream">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* About */}
@@ -143,16 +143,16 @@ const Footer = () => {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <rect width="40" height="40" rx="8" fill="#10B981" />
+                <rect width="40" height="40" rx="8" fill="#0B3D2E" />
                 <path
                   d="M12 28C12 28 15 22 20 22C25 22 28 28 28 28"
-                  stroke="white"
+                  stroke="#F5F1E6"
                   strokeWidth="3"
                   strokeLinecap="round"
                 />
                 <path
                   d="M12 18C12 18 15 12 20 12C25 12 28 18 28 18"
-                  stroke="#F59E0B"
+                  stroke="#D6BA73"
                   strokeWidth="3"
                   strokeLinecap="round"
                 />

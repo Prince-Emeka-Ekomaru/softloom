@@ -37,16 +37,16 @@ const Header = () => {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <rect width="40" height="40" rx="8" fill="#10B981" />
+                <rect width="40" height="40" rx="8" fill="#0B3D2E" />
                 <path
                   d="M12 28C12 28 15 22 20 22C25 22 28 28 28 28"
-                  stroke="white"
+                  stroke="#F5F1E6"
                   strokeWidth="3"
                   strokeLinecap="round"
                 />
                 <path
                   d="M12 18C12 18 15 12 20 12C25 12 28 18 28 18"
-                  stroke="#F59E0B"
+                  stroke="#D6BA73"
                   strokeWidth="3"
                   strokeLinecap="round"
                 />

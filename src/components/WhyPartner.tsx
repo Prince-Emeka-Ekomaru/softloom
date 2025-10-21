@@ -33,7 +33,7 @@ const WhyPartner = () => {
   ]
 
   return (
-    <section id="about" className="py-20 bg-gradient-to-br from-gray-50 to-white">
+    <section id="about" className="py-20 bg-gradient-to-br from-softloom-cream to-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16">
@@ -61,7 +61,7 @@ const WhyPartner = () => {
         </div>
 
         {/* CTA Section */}
-        <div className="bg-gradient-to-r from-softloom-blue to-softloom-dark-blue rounded-2xl p-12 text-center text-white shadow-2xl">
+        <div className="bg-gradient-to-r from-softloom-green to-softloom-dark-blue rounded-2xl p-12 text-center text-white shadow-2xl">
           <h3 className="text-3xl md:text-4xl font-bold mb-4">
             Ready to Transform Your Business?
           </h3>

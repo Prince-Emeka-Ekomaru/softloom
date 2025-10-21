@@ -30,7 +30,7 @@ const CTASections = () => {
       </section>
 
       {/* CTA Section 2 - Specific Solutions */}
-      <section className="py-20 bg-gradient-to-br from-softloom-blue to-softloom-dark-blue text-white">
+      <section className="py-20 bg-gradient-to-br from-softloom-green to-softloom-dark-blue text-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
