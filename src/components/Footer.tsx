@@ -17,23 +17,23 @@ const Footer = () => {
               <li>
                 <button
                   onClick={() => scrollToSection('about')}
-                  className="hover:text-softloom-yellow transition-colors"
+                  className="text-softloom-cream hover:text-softloom-yellow transition-colors"
                 >
                   About Us
                 </button>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Privacy Policy
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Terms of Service
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Partner with Us
                 </a>
               </li>
@@ -45,27 +45,27 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 text-softloom-yellow">Solutions</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   App Development
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Website Development
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   UI/UX Design
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   API Services
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Enterprise Software
                 </a>
               </li>
@@ -77,22 +77,22 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 text-softloom-yellow">Industries</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Financial Services
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   E-commerce
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Healthcare
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-softloom-yellow transition-colors">
+                <a href="#" className="text-softloom-cream hover:text-softloom-yellow transition-colors">
                   Travel & Hospitality
                 </a>
               </li>
@@ -106,7 +106,7 @@ const Footer = () => {
               <li>
                 <button
                   onClick={() => scrollToSection('contact')}
-                  className="hover:text-softloom-yellow transition-colors"
+                  className="text-softloom-cream hover:text-softloom-yellow transition-colors"
                 >
                   Contact Sales
                 </button>
@@ -114,14 +114,14 @@ const Footer = () => {
               <li>
                 <a
                   href="mailto:hello@softloom.com"
-                  className="hover:text-softloom-yellow transition-colors"
+                  className="text-softloom-cream hover:text-softloom-yellow transition-colors"
                 >
                   hello@softloom.com
                 </a>
               </li>
               <li className="pt-4">
                 <p className="text-softloom-cream/70 text-sm">Our Location</p>
-                <p className="text-sm">
+                <p className="text-softloom-cream text-sm">
                   Workcity Africa, Polystar building
                   <br />
                   2nd roundabout, Lekki Phase 1
