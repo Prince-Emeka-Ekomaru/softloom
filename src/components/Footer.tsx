@@ -144,7 +144,7 @@ const Footer = () => {
               />
             </div>
             <div className="text-center text-sm text-softloom-cream/70">
-              <p>© {new Date().getFullYear()} Softloom Technologies. All rights reserved.</p>
+              <p>© 2020 Softloom Technologies. All rights reserved.</p>
               <p className="mt-1">Crafting innovative software solutions for modern businesses.</p>
             </div>
           </div>
