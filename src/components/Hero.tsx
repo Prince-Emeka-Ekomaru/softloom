@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-softloom-green via-softloom-dark-blue to-gray-900 text-white overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-softloom-green via-softloom-dark-blue to-gray-900 text-white overflow-hidden pt-24 md:pt-0"
     >
       {/* Animated Background Elements */}
       <div className="absolute inset-0 overflow-hidden">
