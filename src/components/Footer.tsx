@@ -137,9 +137,9 @@ const Footer = () => {
         <div className="border-t border-softloom-cream/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-3">
-              <img 
-                src="/Softloom.svg" 
-                alt="Softloom Logo" 
+              <img
+                src="/Softloom.svg"
+                alt="Softloom Logo"
                 className="h-8 w-auto"
               />
               <span className="text-xl font-bold text-white">
