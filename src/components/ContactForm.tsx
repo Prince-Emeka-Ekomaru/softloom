@@ -232,7 +232,7 @@ const ContactForm = () => {
                 {submitStatus === 'error' && (
                   <div className="p-4 bg-red-50 border border-red-200 rounded-lg">
                     <p className="text-red-800 font-semibold">
-                      Oops! Something went wrong. Please try again or email us directly at hello@softloom.com
+                      Oops! Something went wrong. Please try again or email us directly at  Info@softloom.com.ng
                     </p>
                   </div>
                 )}
