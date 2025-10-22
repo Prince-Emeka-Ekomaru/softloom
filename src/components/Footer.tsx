@@ -116,7 +116,7 @@ const Footer = () => {
                   href="mailto:hello@softloom.com"
                   className="text-softloom-cream hover:text-softloom-yellow transition-colors"
                 >
-                  hello@softloom.com
+                  info@softloom.com.ng
                 </a>
               </li>
               <li className="pt-4">
@@ -136,15 +136,18 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-softloom-cream/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <div className="flex items-center space-x-2">
-              <img
-                src="/Softloom.svg"
-                alt="Softloom Logo"
+            <div className="flex items-center space-x-3">
+              <img 
+                src="/Softloom.svg" 
+                alt="Softloom Logo" 
                 className="h-8 w-auto"
               />
+              <span className="text-xl font-bold text-white">
+                Softloom
+              </span>
             </div>
             <div className="text-center text-sm text-softloom-cream/70">
-              <p>© 2020 Softloom Technologies. All rights reserved.</p>
+              <p>© 2020 Softloom Limited. All rights reserved.</p>
               <p className="mt-1">Crafting innovative software solutions for modern businesses.</p>
             </div>
           </div>

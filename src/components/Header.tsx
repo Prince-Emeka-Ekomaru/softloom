@@ -29,14 +29,15 @@ const Header = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="flex items-center space-x-2">
-              <img 
-                src="/Softloom.svg" 
-                alt="Softloom Logo" 
-                className="h-10 w-auto"
-              />
-            </div>
+          <Link to="/" className="flex items-center space-x-3">
+            <img 
+              src="/Softloom.svg" 
+              alt="Softloom Logo" 
+              className="h-10 w-auto"
+            />
+            <span className={`text-2xl font-bold transition-colors ${isScrolled ? 'text-softloom-dark-blue' : 'text-white'}`}>
+              Softloom
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
