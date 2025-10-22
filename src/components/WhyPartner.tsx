@@ -33,7 +33,7 @@ const WhyPartner = () => {
   ]
 
   return (
-    <section id="about" className="py-20 bg-gradient-to-br from-softloom-cream to-white">
+    <section id="why-partner" className="py-20 bg-gradient-to-br from-softloom-cream to-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16">

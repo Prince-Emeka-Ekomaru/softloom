@@ -17,7 +17,7 @@ const Footer = () => {
               <li>
                 <button
                   onClick={() => scrollToSection('about')}
-                  className="text-softloom-cream hover:text-softloom-yellow transition-colors"
+                  className="text-softloom-cream hover:text-softloom-yellow transition-colors text-left"
                 >
                   About Us
                 </button>
